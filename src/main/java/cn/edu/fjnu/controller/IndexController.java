@@ -24,6 +24,7 @@ public class IndexController {
 		//List<TableStudent>studentList=service.getAll();
 		//System.out.println(studentList);
 		//test
+		//test2
 		log.info("memememe");
 		return "index";
 	}
