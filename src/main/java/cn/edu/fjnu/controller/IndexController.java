@@ -23,6 +23,7 @@ public class IndexController {
 		log.debug("mememe");
 		//List<TableStudent>studentList=service.getAll();
 		//System.out.println(studentList);
+		//test
 		log.info("memememe");
 		return "index";
 	}
