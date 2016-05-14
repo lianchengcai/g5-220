@@ -25,6 +25,7 @@ public class IndexController {
 		//System.out.println(studentList);
 		//test
 		//test2
+		//tese4
 		log.info("memememe");
 		return "index";
 	}
